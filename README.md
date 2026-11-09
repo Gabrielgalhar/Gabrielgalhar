@@ -53,7 +53,7 @@ Atualmente estou focado em aprimorar meus conhecimentos em:
 
 - ☕ Java e Spring Boot
 - ⚛️ React
-- 🐍 Python e FastAPI
+- 🐍 Python
 - 🗄️ Bancos de dados relacionais e NoSQL
 - 🔗 Desenvolvimento e integração de APIs
 - 🧩 Arquitetura e boas práticas de software
