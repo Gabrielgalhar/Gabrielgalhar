@@ -38,6 +38,7 @@ Meu objetivo é me tornar um **Desenvolvedor Full Stack**, ampliando cada vez ma
 ### ☁️ DevOps e Metodologias Ágeis
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 
 ### 🔧 Ferramentas e Controle de Versão
