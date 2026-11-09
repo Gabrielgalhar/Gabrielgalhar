@@ -18,7 +18,7 @@ Meu objetivo é me tornar um **Desenvolvedor Full Stack**, ampliando cada vez ma
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### 🎨 Front-end
 
@@ -36,7 +36,7 @@ Meu objetivo é me tornar um **Desenvolvedor Full Stack**, ampliando cada vez ma
 ### ☁️ DevOps e Metodologias Ágeis
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 
 ### 🔧 Ferramentas e Controle de Versão
 
@@ -54,7 +54,6 @@ Atualmente estou focado em aprimorar meus conhecimentos em:
 - 🐍 Python e FastAPI
 - 🗄️ Bancos de dados relacionais e NoSQL
 - 🔗 Desenvolvimento e integração de APIs
-- ☁️ DevOps
 - 🧩 Arquitetura e boas práticas de software
 
 ---
