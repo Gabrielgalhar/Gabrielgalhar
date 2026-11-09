@@ -5,9 +5,11 @@ Olá! Eu sou **Gabriel Galhardone**, estudante de **Engenharia de Software na Un
 
 Tenho interesse em desenvolvimento de software e venho aprimorando minhas habilidades principalmente no desenvolvimento **Backend com Java e Spring Boot**, além de conhecimentos em **Python e desenvolvimento Front-end com React**.
 
+Atualmente, trabalho na área de **Homologação de Carteiras de Cobrança e de Pagamento**, atuando com **APIs e Webhooks** para validação, integração e acompanhamento de processos.
+
 Busco constantemente aprender novas tecnologias, melhorar minhas práticas de desenvolvimento e transformar conhecimentos em projetos práticos.
 
-Meu objetivo é me tornar um **Desenvolvedor Full Stack**, ampliando cada vez mais meus conhecimentos em desenvolvimento de aplicações modernas, APIs e bancos de dados.
+Meu objetivo é me tornar um **Desenvolvedor Full Stack**, ampliando cada vez mais meus conhecimentos em desenvolvimento de aplicações modernas, APIs, integrações e bancos de dados.
 
 ---
 
